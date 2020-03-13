@@ -1,0 +1,1 @@
+if(sumy < 0) sumy = sumy*-1;
